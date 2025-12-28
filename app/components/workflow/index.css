@@ -36,3 +36,11 @@
   height: 44px;
   padding: 12px 16px;
 }
+
+.node-status-error {
+  box-shadow: 0 0 8px #ff4d4f !important;
+}
+
+.node-configuring {
+  box-shadow: 0 0 8px #338aff !important;
+}
